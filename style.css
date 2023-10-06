@@ -11,7 +11,9 @@ div.container{
 div.calculator{
     border: 2px solid black;
     background: #3a4452;
-    border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin: 40px auto;
 }
 div.display{
     display: flex;
